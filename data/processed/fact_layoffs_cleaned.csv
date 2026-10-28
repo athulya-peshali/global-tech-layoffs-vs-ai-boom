@@ -1,0 +1,193 @@
+company,location,industry,total_laid_off,percentage_laid_off,date,stage,country,funds_raised,is_ai_company
+Doordash,San Francisco,Transportation,250,0.08,2022-01-15,Post-IPO,Germany,1000,False
+Microsoft,San Francisco,Transportation,500,0.05,2022-01-29,Post-IPO,Brazil,1000,False
+Snap,San Francisco,Crypto,1200,0.09,2022-02-05,Post-IPO,India,1000,False
+Snap,San Francisco,HR,500,0.17,2022-02-12,Post-IPO,United States,1000,False
+Lyft,San Francisco,Other,1200,0.17,2022-02-26,Post-IPO,Australia,1000,False
+Stripe,San Francisco,Food,1200,0.24,2022-03-12,Post-IPO,India,1000,False
+Stripe,San Francisco,Education,250,0.19,2022-03-19,Post-IPO,Germany,1000,False
+Spotify,San Francisco,Transportation,10000,0.13,2022-03-26,Post-IPO,United Kingdom,1000,False
+Uber,San Francisco,Crypto,1200,0.09,2022-04-09,Post-IPO,Sweden,1000,False
+Snap,San Francisco,Hardware,10000,0.24,2022-04-16,Post-IPO,Sweden,1000,False
+Doordash,San Francisco,Transportation,1200,0.06,2022-04-23,Post-IPO,Australia,1000,False
+Lyft,San Francisco,Hardware,250,0.24,2022-04-30,Post-IPO,Germany,1000,False
+Shopify,San Francisco,HR,100,0.25,2022-05-07,Post-IPO,United States,1000,False
+Snap,San Francisco,Transportation,500,0.09,2022-05-14,Post-IPO,Brazil,1000,False
+Amazon,San Francisco,Consumer,250,0.12,2022-05-21,Post-IPO,Germany,1000,False
+X/Twitter,San Francisco,Hardware,10000,0.12,2022-06-04,Post-IPO,United States,1000,False
+X/Twitter,San Francisco,Crypto,100,0.13,2022-06-11,Post-IPO,United Kingdom,1000,False
+Amazon,San Francisco,Consumer,250,0.1,2022-06-18,Post-IPO,Germany,1000,False
+Stripe,San Francisco,Education,1200,0.07,2022-06-25,Post-IPO,Sweden,1000,False
+Intel,San Francisco,Sales,3500,0.16,2022-07-09,Post-IPO,Germany,1000,False
+Shopify,San Francisco,Food,10000,0.23,2022-07-16,Post-IPO,United Kingdom,1000,False
+Uber,San Francisco,Sales,1200,0.12,2022-07-23,Post-IPO,Sweden,1000,False
+Meta,San Francisco,HR,1200,0.12,2022-07-30,Post-IPO,Singapore,1000,False
+Uber,San Francisco,Transportation,10000,0.09,2022-08-06,Post-IPO,Singapore,1000,False
+Doordash,San Francisco,Crypto,100,0.13,2022-08-20,Post-IPO,Brazil,1000,False
+Snap,San Francisco,Food,500,0.11,2022-09-03,Post-IPO,India,1000,False
+Zoom,San Francisco,Consumer,250,0.13,2022-09-10,Post-IPO,India,1000,False
+Meta,San Francisco,Other,3500,0.15,2022-09-24,Post-IPO,India,1000,False
+Microsoft,San Francisco,Food,500,0.1,2022-10-01,Post-IPO,Brazil,1000,False
+Salesforce,San Francisco,Sales,10000,0.13,2022-10-08,Post-IPO,India,1000,False
+Lyft,San Francisco,Consumer,1200,0.15,2022-10-15,Post-IPO,Singapore,1000,False
+Amazon,San Francisco,Sales,500,0.19,2022-10-22,Post-IPO,Canada,1000,False
+Intel,San Francisco,Food,100,0.19,2022-10-29,Post-IPO,Canada,1000,False
+Robinhood,San Francisco,Transportation,500,0.12,2022-11-05,Post-IPO,United States,1000,False
+Coinbase,San Francisco,Other,1200,0.08,2022-11-19,Post-IPO,Australia,1000,False
+Intel,San Francisco,Consumer,100,0.07,2022-11-26,Post-IPO,India,1000,False
+Salesforce,San Francisco,Food,100,0.12,2022-12-03,Post-IPO,Singapore,1000,False
+Amazon,San Francisco,Sales,10000,0.21,2022-12-10,Post-IPO,Brazil,1000,False
+Bytedance,San Francisco,Consumer,1200,0.23,2022-12-17,Post-IPO,Brazil,1000,False
+Amazon,San Francisco,HR,100,0.05,2022-12-24,Post-IPO,United Kingdom,1000,False
+Amazon,San Francisco,HR,100,0.05,2023-01-07,Post-IPO,Canada,1000,False
+Lyft,San Francisco,Sales,500,0.18,2023-01-14,Post-IPO,Brazil,1000,False
+Snap,San Francisco,Other,10000,0.1,2023-01-21,Post-IPO,Israel,1000,False
+Shopify,San Francisco,Other,500,0.14,2023-01-28,Post-IPO,Israel,1000,False
+Meta,San Francisco,Consumer,1200,0.19,2023-02-04,Post-IPO,Germany,1000,False
+Amazon,San Francisco,Consumer,1200,0.24,2023-02-11,Post-IPO,United States,1000,False
+Uber,San Francisco,Other,3500,0.24,2023-02-18,Post-IPO,Singapore,1000,False
+Amazon,San Francisco,Consumer,3500,0.13,2023-02-25,Post-IPO,Canada,1000,False
+Amazon,San Francisco,Hardware,250,0.24,2023-03-04,Post-IPO,Singapore,1000,False
+X/Twitter,San Francisco,Transportation,10000,0.12,2023-03-11,Post-IPO,India,1000,False
+Coinbase,San Francisco,Hardware,100,0.22,2023-03-18,Post-IPO,Sweden,1000,False
+Spotify,San Francisco,Education,250,0.21,2023-04-01,Post-IPO,Australia,1000,False
+Shopify,San Francisco,Education,100,0.18,2023-04-08,Post-IPO,Australia,1000,False
+Peloton,San Francisco,Other,1200,0.17,2023-04-29,Post-IPO,Australia,1000,False
+Wayfair,San Francisco,HR,10000,0.11,2023-05-06,Post-IPO,Sweden,1000,False
+Zoom,San Francisco,Sales,10000,0.11,2023-05-13,Post-IPO,Sweden,1000,False
+Salesforce,San Francisco,Consumer,3500,0.1,2023-05-20,Post-IPO,Brazil,1000,False
+Spotify,San Francisco,Sales,3500,0.09,2023-05-27,Post-IPO,Israel,1000,False
+Amazon,San Francisco,Food,1200,0.08,2023-06-03,Post-IPO,Brazil,1000,False
+Coinbase,San Francisco,Other,500,0.14,2023-06-10,Post-IPO,United States,1000,False
+Stripe,San Francisco,Finance,250,0.23,2023-07-01,Post-IPO,United States,1000,False
+Lyft,San Francisco,HR,3500,0.11,2023-07-08,Post-IPO,Brazil,1000,False
+Spotify,San Francisco,Finance,3500,0.13,2023-07-15,Post-IPO,Israel,1000,False
+Lyft,San Francisco,Other,10000,0.05,2023-07-22,Post-IPO,Germany,1000,False
+Intel,San Francisco,Finance,250,0.15,2023-08-19,Post-IPO,Sweden,1000,False
+Meta,San Francisco,Finance,250,0.17,2023-08-26,Post-IPO,Australia,1000,False
+Google,San Francisco,Sales,250,0.24,2023-09-02,Post-IPO,Sweden,1000,False
+Salesforce,San Francisco,Sales,250,0.06,2023-09-09,Post-IPO,Brazil,1000,False
+Intel,San Francisco,Transportation,500,0.18,2023-09-16,Post-IPO,India,1000,False
+Wayfair,San Francisco,Finance,100,0.24,2023-09-23,Post-IPO,United Kingdom,1000,False
+Snap,San Francisco,Hardware,250,0.19,2023-09-30,Post-IPO,United Kingdom,1000,False
+Coinbase,San Francisco,Education,500,0.11,2023-10-14,Post-IPO,India,1000,False
+Shopify,San Francisco,Transportation,100,0.21,2023-10-28,Post-IPO,Canada,1000,False
+Coinbase,San Francisco,Finance,500,0.25,2023-11-04,Post-IPO,Singapore,1000,False
+Robinhood,San Francisco,Consumer,10000,0.16,2023-11-11,Post-IPO,Australia,1000,False
+Shopify,San Francisco,Food,500,0.07,2023-11-18,Post-IPO,Singapore,1000,False
+Intel,San Francisco,HR,3500,0.23,2023-11-25,Post-IPO,Israel,1000,False
+Snap,San Francisco,HR,1200,0.12,2023-12-02,Post-IPO,United Kingdom,1000,False
+Intel,San Francisco,Other,3500,0.07,2023-12-09,Post-IPO,Sweden,1000,False
+Intel,San Francisco,Finance,3500,0.21,2023-12-16,Post-IPO,Canada,1000,False
+Shopify,San Francisco,Finance,250,0.06,2023-12-23,Post-IPO,Sweden,1000,False
+Salesforce,San Francisco,Other,3500,0.12,2023-12-30,Post-IPO,Australia,1000,False
+Snap,San Francisco,Consumer,10000,0.19,2024-01-20,Post-IPO,Israel,1000,False
+Google,San Francisco,Finance,10000,0.25,2024-02-03,Post-IPO,Germany,1000,False
+Meta,San Francisco,Crypto,100,0.24,2024-02-10,Post-IPO,Canada,1000,False
+Microsoft,San Francisco,Sales,1200,0.07,2024-02-17,Post-IPO,Israel,1000,False
+Spotify,San Francisco,Education,500,0.07,2024-02-24,Post-IPO,Sweden,1000,False
+Shopify,San Francisco,Hardware,1200,0.07,2024-03-02,Post-IPO,Sweden,1000,False
+Meta,San Francisco,Other,1200,0.11,2024-03-16,Post-IPO,Singapore,1000,False
+Uber,San Francisco,Finance,250,0.05,2024-03-23,Post-IPO,Israel,1000,False
+Doordash,San Francisco,Finance,3500,0.25,2024-03-30,Post-IPO,Israel,1000,False
+Intel,San Francisco,HR,100,0.09,2024-04-13,Post-IPO,India,1000,False
+Meta,San Francisco,Finance,10000,0.13,2024-04-20,Post-IPO,Israel,1000,False
+Bytedance,San Francisco,Education,10000,0.14,2024-04-27,Post-IPO,Brazil,1000,False
+X/Twitter,San Francisco,Education,250,0.13,2024-05-04,Post-IPO,Canada,1000,False
+Salesforce,San Francisco,HR,500,0.19,2024-05-11,Post-IPO,Canada,1000,False
+Meta,San Francisco,Finance,3500,0.19,2024-05-18,Post-IPO,Canada,1000,False
+Uber,San Francisco,Hardware,3500,0.17,2024-06-01,Post-IPO,United Kingdom,1000,False
+Robinhood,San Francisco,Finance,100,0.21,2024-06-08,Post-IPO,Australia,1000,False
+Doordash,San Francisco,Consumer,250,0.13,2024-06-15,Post-IPO,Germany,1000,False
+Zoom,San Francisco,Consumer,100,0.13,2024-06-22,Post-IPO,India,1000,False
+Lyft,San Francisco,Food,1200,0.21,2024-06-29,Post-IPO,Israel,1000,False
+Uber,San Francisco,Other,3500,0.2,2024-07-06,Post-IPO,Germany,1000,False
+Wayfair,San Francisco,Consumer,10000,0.09,2024-07-13,Post-IPO,Germany,1000,False
+Shopify,San Francisco,Sales,100,0.2,2024-07-20,Post-IPO,United States,1000,False
+Spotify,San Francisco,Education,250,0.15,2024-08-03,Post-IPO,Sweden,1000,False
+Robinhood,San Francisco,Consumer,1200,0.16,2024-08-10,Post-IPO,Israel,1000,False
+Zoom,San Francisco,Food,3500,0.18,2024-08-17,Post-IPO,Germany,1000,False
+Spotify,San Francisco,Crypto,10000,0.17,2024-08-24,Post-IPO,India,1000,False
+Doordash,San Francisco,Other,1200,0.16,2024-08-31,Post-IPO,India,1000,False
+Doordash,San Francisco,Food,500,0.19,2024-09-07,Post-IPO,Sweden,1000,False
+Coinbase,San Francisco,Transportation,250,0.2,2024-09-14,Post-IPO,United States,1000,False
+Google,San Francisco,Other,500,0.08,2024-10-05,Post-IPO,Singapore,1000,False
+X/Twitter,San Francisco,Sales,100,0.23,2024-10-12,Post-IPO,Brazil,1000,False
+Robinhood,San Francisco,Education,500,0.21,2024-10-19,Post-IPO,United Kingdom,1000,False
+Coinbase,San Francisco,Crypto,10000,0.07,2024-10-26,Post-IPO,Germany,1000,False
+Peloton,San Francisco,Hardware,10000,0.12,2024-11-02,Post-IPO,United States,1000,False
+Doordash,San Francisco,HR,10000,0.08,2024-11-09,Post-IPO,Israel,1000,False
+Zoom,San Francisco,Education,100,0.07,2024-11-16,Post-IPO,Canada,1000,False
+Intel,San Francisco,Transportation,10000,0.17,2024-11-23,Post-IPO,Israel,1000,False
+Google,San Francisco,Education,500,0.19,2024-11-30,Post-IPO,Brazil,1000,False
+Peloton,San Francisco,Hardware,10000,0.16,2024-12-07,Post-IPO,Sweden,1000,False
+Salesforce,San Francisco,Education,100,0.22,2024-12-14,Post-IPO,Australia,1000,False
+Zoom,San Francisco,Sales,1200,0.12,2024-12-28,Post-IPO,Singapore,1000,False
+Robinhood,San Francisco,Sales,250,0.16,2025-01-04,Post-IPO,Israel,1000,False
+Snap,San Francisco,Other,100,0.12,2025-01-11,Post-IPO,Sweden,1000,False
+Google,San Francisco,Transportation,3500,0.24,2025-01-18,Post-IPO,Israel,1000,False
+Uber,San Francisco,Food,10000,0.09,2025-02-01,Post-IPO,Canada,1000,False
+Stripe,San Francisco,Food,500,0.05,2025-02-08,Post-IPO,United Kingdom,1000,False
+Uber,San Francisco,Hardware,1200,0.23,2025-02-15,Post-IPO,Canada,1000,False
+Uber,San Francisco,Other,250,0.16,2025-03-01,Post-IPO,Singapore,1000,False
+Wayfair,San Francisco,Finance,250,0.11,2025-03-08,Post-IPO,Israel,1000,False
+Meta,San Francisco,Sales,1200,0.07,2025-03-15,Post-IPO,United States,1000,False
+Uber,San Francisco,Finance,3500,0.16,2025-03-22,Post-IPO,Canada,1000,False
+Coinbase,San Francisco,Finance,250,0.25,2025-04-05,Post-IPO,Australia,1000,False
+Google,San Francisco,Sales,3500,0.05,2025-04-12,Post-IPO,United States,1000,False
+Uber,San Francisco,Food,10000,0.07,2025-04-26,Post-IPO,United Kingdom,1000,False
+Snap,San Francisco,Hardware,500,0.24,2025-05-03,Post-IPO,Germany,1000,False
+X/Twitter,San Francisco,HR,10000,0.21,2025-05-24,Post-IPO,Germany,1000,False
+Salesforce,San Francisco,Finance,500,0.18,2025-05-31,Post-IPO,United Kingdom,1000,False
+Shopify,San Francisco,Education,250,0.21,2025-06-07,Post-IPO,Singapore,1000,False
+Peloton,San Francisco,Other,100,0.2,2025-06-14,Post-IPO,Israel,1000,False
+Zoom,San Francisco,Consumer,250,0.16,2025-06-21,Post-IPO,Australia,1000,False
+Wayfair,San Francisco,Food,10000,0.24,2025-06-28,Post-IPO,United Kingdom,1000,False
+X/Twitter,San Francisco,Education,3500,0.15,2025-07-05,Post-IPO,Canada,1000,False
+Microsoft,San Francisco,Crypto,100,0.19,2025-07-12,Post-IPO,Singapore,1000,False
+Meta,San Francisco,Sales,250,0.2,2025-07-19,Post-IPO,Israel,1000,False
+Meta,San Francisco,Crypto,3500,0.07,2025-07-26,Post-IPO,Israel,1000,False
+Intel,San Francisco,Transportation,3500,0.15,2025-08-02,Post-IPO,Brazil,1000,False
+Shopify,San Francisco,Hardware,500,0.16,2025-08-09,Post-IPO,United Kingdom,1000,False
+Salesforce,San Francisco,Sales,10000,0.1,2025-08-16,Post-IPO,Sweden,1000,False
+Peloton,San Francisco,Education,10000,0.07,2025-08-23,Post-IPO,Brazil,1000,False
+X/Twitter,San Francisco,Sales,3500,0.23,2025-08-30,Post-IPO,Canada,1000,False
+Coinbase,San Francisco,Consumer,100,0.13,2025-09-06,Post-IPO,Sweden,1000,False
+X/Twitter,San Francisco,HR,500,0.14,2025-09-13,Post-IPO,Israel,1000,False
+Peloton,San Francisco,Sales,100,0.12,2025-09-27,Post-IPO,Israel,1000,False
+Wayfair,San Francisco,Transportation,100,0.2,2025-10-04,Post-IPO,Germany,1000,False
+Stripe,San Francisco,Other,100,0.22,2025-10-11,Post-IPO,Canada,1000,False
+Spotify,San Francisco,Hardware,500,0.14,2025-10-18,Post-IPO,India,1000,False
+Snap,San Francisco,Other,100,0.15,2025-10-25,Post-IPO,Israel,1000,False
+Meta,San Francisco,Consumer,250,0.05,2025-11-01,Post-IPO,Israel,1000,False
+Spotify,San Francisco,Consumer,100,0.08,2025-11-08,Post-IPO,Canada,1000,False
+X/Twitter,San Francisco,Consumer,100,0.11,2025-11-15,Post-IPO,Australia,1000,False
+Wayfair,San Francisco,Transportation,10000,0.09,2025-11-22,Post-IPO,United Kingdom,1000,False
+X/Twitter,San Francisco,Other,100,0.21,2025-12-13,Post-IPO,India,1000,False
+Google,San Francisco,Crypto,250,0.15,2025-12-20,Post-IPO,United States,1000,False
+Microsoft,San Francisco,Consumer,3500,0.07,2025-12-27,Post-IPO,Brazil,1000,False
+Coinbase,San Francisco,Education,10000,0.16,2026-01-03,Post-IPO,United Kingdom,1000,False
+Robinhood,San Francisco,Food,100,0.16,2026-01-10,Post-IPO,Brazil,1000,False
+X/Twitter,San Francisco,Crypto,3500,0.09,2026-01-17,Post-IPO,Singapore,1000,False
+Doordash,San Francisco,Transportation,500,0.1,2026-01-24,Post-IPO,India,1000,False
+Peloton,San Francisco,Sales,3500,0.08,2026-01-31,Post-IPO,Canada,1000,False
+Lyft,San Francisco,Hardware,250,0.07,2026-02-07,Post-IPO,Australia,1000,False
+Wayfair,San Francisco,Other,3500,0.13,2026-02-14,Post-IPO,Canada,1000,False
+Doordash,San Francisco,Finance,500,0.1,2026-02-21,Post-IPO,Canada,1000,False
+Snap,San Francisco,Sales,3500,0.13,2026-02-28,Post-IPO,Germany,1000,False
+Google,San Francisco,Finance,1200,0.24,2026-03-07,Post-IPO,United Kingdom,1000,False
+Zoom,San Francisco,Education,500,0.23,2026-03-14,Post-IPO,Brazil,1000,False
+Zoom,San Francisco,Hardware,100,0.1,2026-03-21,Post-IPO,United Kingdom,1000,False
+Shopify,San Francisco,HR,100,0.08,2026-03-28,Post-IPO,Australia,1000,False
+Microsoft,San Francisco,Education,3500,0.08,2026-04-04,Post-IPO,Sweden,1000,False
+Bytedance,San Francisco,Crypto,3500,0.21,2026-04-11,Post-IPO,India,1000,False
+Google,San Francisco,Consumer,100,0.15,2026-04-18,Post-IPO,Germany,1000,False
+Coinbase,San Francisco,Crypto,500,0.23,2026-04-25,Post-IPO,Germany,1000,False
+X/Twitter,San Francisco,Hardware,3500,0.09,2026-05-02,Post-IPO,Singapore,1000,False
+Peloton,San Francisco,Hardware,500,0.09,2026-05-09,Post-IPO,Israel,1000,False
+Bytedance,San Francisco,Transportation,100,0.19,2026-05-23,Post-IPO,Canada,1000,False
+Google,San Francisco,Food,10000,0.08,2026-05-30,Post-IPO,Brazil,1000,False
+Microsoft,San Francisco,Sales,500,0.22,2026-06-06,Post-IPO,United Kingdom,1000,False
+Shopify,San Francisco,Hardware,250,0.14,2026-06-13,Post-IPO,Singapore,1000,False
+X/Twitter,San Francisco,Consumer,100,0.19,2026-06-20,Post-IPO,United States,1000,False
+Spotify,San Francisco,Other,250,0.21,2026-06-27,Post-IPO,United Kingdom,1000,False
