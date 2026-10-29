@@ -1,0 +1,44 @@
+{
+  "name": "Budget Card Light Theme",
+  "dataColors": [
+    "#3B426B",
+    "#8290D9",
+    "#282D4F",
+    "#FF4D4D",
+    "#00F2FE",
+    "#10B981"
+  ],
+  "background": "#EBF0F7",
+  "foreground": "#1E293B",
+  "tableAccent": "#FFFFFF",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#D1D5DB" } },
+            "radius": 12
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#EBF0F7" } },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}

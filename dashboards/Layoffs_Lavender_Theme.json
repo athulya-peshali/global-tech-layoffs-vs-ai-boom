@@ -1,0 +1,24 @@
+{
+  "name": "Layoffs Lavender",
+  "dataColors": ["#3A3F7D", "#8E93D6", "#C9CCEE", "#5B5FA8", "#1E2150", "#A9ADE3", "#6F73C0", "#E3E5F6"],
+  "background": "#FFFFFF",
+  "foreground": "#1E2150",
+  "tableAccent": "#3A3F7D",
+  "good": "#3A3F7D",
+  "bad": "#C0392B",
+  "neutral": "#8E93D6",
+  "textClasses": {
+    "title": { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#3A3F7D" },
+    "label": { "fontFace": "Segoe UI", "fontSize": 10, "color": "#4A4E86" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 28, "color": "#1E2150" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{ "show": true, "fontColor": { "solid": { "color": "#3A3F7D" } }, "fontSize": 12, "fontFamily": "Segoe UI Semibold" }],
+        "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E3E5F6" } }, "radius": 14 }]
+      }
+    }
+  }
+}

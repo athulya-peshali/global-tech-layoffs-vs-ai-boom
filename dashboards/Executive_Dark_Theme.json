@@ -1,0 +1,44 @@
+{
+  "name": "IdentyFlow Dark SaaS",
+  "dataColors": [
+    "#FF4D4D",
+    "#00F2FE",
+    "#3B82F6",
+    "#A855F7",
+    "#10B981",
+    "#F59E0B"
+  ],
+  "background": "#0A0E17",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#131B2E",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#131B2E" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#1E2D4A" } },
+            "radius": 8
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#0A0E17" } },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
